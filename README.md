@@ -79,7 +79,7 @@ _defaults = {
     "cuda"              : True,
 }
 ```
-3. 运行predict.py
+3. Running predict.py
 
 ## Evaluation Steps
 ### a. Evaluating the BCCD Test Set
