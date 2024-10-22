@@ -1,5 +1,5 @@
 # Enhancing-Blood-Cell-Image-Analysis-Algorithm
-IGGM-YOLO is a deep learning algorithm designed for accurate blood cell image classification. Leveraging intelligent perception optimization and multi-path residual feature fusion, the algorithm aims to address challenges such as small datasets, label inaccuracies, and sample imbalances. With IGGM-YOLO, you can enhance feature representation of blood cell images, mitigate label inaccuracies, and improve recognition of blood cell categories.
+This is a deep learning algorithm designed for accurate blood cell image classification. Leveraging intelligent perception optimization and multi-path residual feature fusion, the algorithm aims to address challenges such as small datasets, label inaccuracies, and sample imbalances. With IGGM-YOLO, you can enhance feature representation of blood cell images, mitigate label inaccuracies, and improve recognition of blood cell categories.
 
 1. Dataset Preparation
 Before training, place the label files under the 'Annotation' folder in the 'VOC2007' folder within the 'VOCdevkit' directory.
